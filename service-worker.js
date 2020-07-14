@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mulheres-na-ti/precache-manifest.2877f0542813d9c73e801c8c5c1f0d81.js"
+  "/mulheres-na-ti/precache-manifest.5a2fd1bd79ab962c0bbfd47b5acba226.js"
 );
 
 self.addEventListener('message', (event) => {

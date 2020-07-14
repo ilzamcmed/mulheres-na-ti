@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/mulheres-na-ti/static/css/main.fe813988.chunk.css",
-    "main.js": "/mulheres-na-ti/static/js/main.eb217149.chunk.js",
-    "main.js.map": "/mulheres-na-ti/static/js/main.eb217149.chunk.js.map",
+    "main.js": "/mulheres-na-ti/static/js/main.e1ad485b.chunk.js",
+    "main.js.map": "/mulheres-na-ti/static/js/main.e1ad485b.chunk.js.map",
     "runtime-main.js": "/mulheres-na-ti/static/js/runtime-main.1cc63b6b.js",
     "runtime-main.js.map": "/mulheres-na-ti/static/js/runtime-main.1cc63b6b.js.map",
-    "static/js/2.85c64d3f.chunk.js": "/mulheres-na-ti/static/js/2.85c64d3f.chunk.js",
-    "static/js/2.85c64d3f.chunk.js.map": "/mulheres-na-ti/static/js/2.85c64d3f.chunk.js.map",
+    "static/js/2.410e3582.chunk.js": "/mulheres-na-ti/static/js/2.410e3582.chunk.js",
+    "static/js/2.410e3582.chunk.js.map": "/mulheres-na-ti/static/js/2.410e3582.chunk.js.map",
     "index.html": "/mulheres-na-ti/index.html",
-    "precache-manifest.2877f0542813d9c73e801c8c5c1f0d81.js": "/mulheres-na-ti/precache-manifest.2877f0542813d9c73e801c8c5c1f0d81.js",
+    "precache-manifest.5a2fd1bd79ab962c0bbfd47b5acba226.js": "/mulheres-na-ti/precache-manifest.5a2fd1bd79ab962c0bbfd47b5acba226.js",
     "service-worker.js": "/mulheres-na-ti/service-worker.js",
     "static/css/main.fe813988.chunk.css.map": "/mulheres-na-ti/static/css/main.fe813988.chunk.css.map",
-    "static/js/2.85c64d3f.chunk.js.LICENSE.txt": "/mulheres-na-ti/static/js/2.85c64d3f.chunk.js.LICENSE.txt"
+    "static/js/2.410e3582.chunk.js.LICENSE.txt": "/mulheres-na-ti/static/js/2.410e3582.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1cc63b6b.js",
-    "static/js/2.85c64d3f.chunk.js",
+    "static/js/2.410e3582.chunk.js",
     "static/css/main.fe813988.chunk.css",
-    "static/js/main.eb217149.chunk.js"
+    "static/js/main.e1ad485b.chunk.js"
   ]
 }
